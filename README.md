@@ -18,6 +18,10 @@ When playing on a mobile phone, you can tap the virtual keys on the screen.
 
 When playing in browser of PC, you can also use direction arrow and shift keys of keyboard.
 
+## Preview
+
+for [PC](https://www.hauzerlee.me/bbd/) or [Mobile](https://www.hauzerlee.me/bbdm/)
+
 ## License
 
 This software is distributed under BSD license.
