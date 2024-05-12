@@ -16,6 +16,10 @@
 
 构建后，在手机上玩儿时，可以点击屏幕上的虚拟键。在电脑上玩儿时，也可以使用键盘上的 SHIFT 配合方向键。
 
+## 预览
+
+[电脑点这里](https://www.hauzerlee.me/bbd/)，[手机点这里](https://www.hauzerlee.me/bbdm/)
+
 ## 许可证
 
 本软件按照 BSD 许可证的条款发布。
